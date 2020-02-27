@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "BigNoodleTitling";
+    src: url("font/BigNoodleTitling/@font-face/bignoodleting.eot");
+    src: url("font/BigNoodleTitling/@font-face/bignoodleting.woff") format("woff"),
+        url("font/BigNoodleTitling/@font-face/bignoodleting.otf") format("opentype"),
+        url("font/BigNoodleTitling/@font-face/bignoodleting.svg") format("svg");
+}
+
+@font-face {
+    font-family: "cocogoose";
+    src: url("font/cocogoose/@font-face/cocogoose.eot");
+    src: url("font/cocogoose/@font-face/cocogoose.woff") format("woff"),
+        url("font/cocogoose/@font-face/cocogoose.otf") format("opentype"),
+        url("font/cocogoose/@font-face/cocogoose.svg") format("svg");
+}
+
+@font-face {
+    font-family: "Humanist777";
+    src: url("font/Humanist777/@font-face/Humanist777.eot");
+    src: url("font/Humanist777/@font-face/Humanist777.woff") format("woff"),
+        url("font/Humanist777/@font-face/Humanist777.otf") format("opentype"),
+        url("font/Humanist777/@font-face/Humanist777.svg") format("svg");
+}
+
+@font-face {
+    font-family: "Humanist 777 bold";
+    src: url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.eot");
+    src: url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.eot?#iefix") format("embedded-opentype"),
+        url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.woff2") format("woff2"),
+        url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.woff") format("woff"),
+        url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.ttf") format("truetype"),
+        url("font/Humanist 777 Bold/@font-face/3f0ec59a90760e4af74c1e9066c372b7.svg#Humanist 777") format("svg");
+}
+
+@font-face {
+    font-family: "Humanst521 Bold";
+    src: url("font/Humanst521/@font-face/Humanst521.eot");
+    src: url("font/Humanst521/@font-face/Humanst521.woff") format("woff"),
+        url("font/Humanst521/@font-face/Humanst521.otf") format("opentype"),
+        url("font/Humanst521/@font-face/Humanst521.svg") format("svg");
+}
+
+@font-face {
+    font-family: "Humanst521 Lt BT";
+    src: url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.eot");
+    src: url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.eot?#iefix") format("embedded-opentype"),
+        url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.woff2") format("woff2"),
+        url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.woff") format("woff"),
+        url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.ttf") format("truetype"),
+        url("font/Humanst521Light/@font-face/c56754d51081528c5bd48dc76f580171.svg#Humanst521 Lt BT") format("svg");
+}
+
+@font-face {
+    font-family: "LuloCleanW01-OneBold";
+    src: url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.eot");
+    src: url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.eot?#iefix") format("embedded-opentype"),
+        url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.woff2") format("woff2"),
+        url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.woff") format("woff"),
+        url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.ttf") format("truetype"),
+        url("font/Lulo Clean W01 One Bold/@font-face/39a2c7f346d5cfae7045aeb2fb50d9ad.svg#LuloCleanW01-OneBold") format("svg");
+}

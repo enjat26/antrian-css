@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="font.css">
+    <style type="text/css">
+        @page {
+            size: auto;
+            /* auto is the current printer page size */
+            margin: 0mm;
+            width: 88mm;
+        }
+
+        body {
+            margin: 0px;
+        }
+
+        .canvas {
+            background-color: rgb(235, 222, 222);
+            margin: 2mm;
+            width: 88mm;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        .rs {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 9pt;
+            letter-spacing: 5px;
+        }
+
+        .jk {
+            font-family: arial
+        }
+
+        .waktu {
+            float: left;
+            width: 50%;
+            font-family: BigNoodleTitling;
+            font-size: 10pt;
+        }
+
+        .tanggal {
+            float: left;
+            width: 50%;
+        }
+
+        .jam {
+            width: 50%;
+            text-align: right;
+        }
+
+        .clear::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .isi {
+            margin-top: 30px;
+            text-align: center;
+        }
+
+        .no {
+            font-family: 'cocogoose';
+            font-size: 9pt;
+        }
+
+        .no-urut {
+            font-family: 'arial black';
+            font-size: 40pt;
+            margin-top: -10px;
+        }
+
+        .poly {
+            font-family: 'cocogoose';
+            font-size: 11pt;
+            margin-top: -10px;
+        }
+
+        .b1 {
+            font-family: 'Humanst521 Lt BT' !important;
+            font-size: 8pt;
+        }
+
+        .b2 {
+            margin-top: -10px;
+            font-family: 'Humanist 777 bold' !important;
+            font-size: 8pt;
+        }
+
+        .b3 {
+            font-family: 'Humanst521 Lt BT' !important;
+            font-size: 8pt;
+        }
+
+        hr {
+            border: 0.5px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="canvas">
+        <div class="logo">
+            <div class="rs">RUMAH SAKIT</div>
+            <div class="jk">JASA KARTINI</div>
+        </div>
+        <div class="clear">
+            <div class="waktu tanggal">12 Feb 2020</div>
+            <div class="waktu jam">12:00:00</div>
+        </div>
+        <div class="isi">
+            <div class="no">NO PENDAFTARAN</div>
+            <div class="no-urut">J002</div>
+            <p class="poly">POLI ANAK</p>
+            <p class="b1">MOHON UNTUK MENUNGGU <br>
+                SAMPAI NOMOR ANDA DIPANGGIL
+            </p>
+            <p class="b2">APABILA TIDAK ADA DALAM PEMANGGILAN KETIGA <br> SILAHKAN MENGGAMBIL NOMOR ANTRIAN BARU</p>
+            <hr>
+            <p class="b3"><b>TERIMA KASIH</b> <br>
+                TELAH MEMPERCAYAKAN PELAYANAN KESEHATAN ANDA KEPADA KAMI
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>
